@@ -1,7 +1,7 @@
 # WomoLight
 Smart light control for Campers, RVs, Wohnmobile
 
-Features:
+**Features:**
 - 8 opto-coupled inputs divided into 2 separated groups with green control LED
 - 8 opto-coupled PWM outputs divided into 2 separated groups with red control LED
 - lights are dimmable
