@@ -40,3 +40,6 @@ PCB:
 
 ESPhome:
 - transition time for on/off is 1s. Could be reduced to "feel more responsive"
+
+
+![3D Vorschau](/LichtsteuerungV1.jpg)
