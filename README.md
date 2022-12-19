@@ -37,6 +37,7 @@ PCB:
 - screw terminals are not the best choice for camper installations
 - driver FETs are not mechanically secured and can be stressed by vibrations
 - no connectors for further I2C boards or UARTs
+- solder taps are not well described on the board
 
 ESPhome:
 - transition time for on/off is 1s. Could be reduced to "feel more responsive"
