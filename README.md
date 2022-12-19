@@ -29,7 +29,7 @@ In Home Assistant 8 lights will appear which are dimmable.
 You also see 8 input devices, which represent your switches. They can be used for any type of automations.
 
 
-#known bugs
+**known bugs**
 PCB:
 - Address jumpers need to be soldered and used as there are no default pull-down resistors. 
 - first batch of PCB has wrong AMS1117 (1.2V only) and no capacitors along the AMS1117.
